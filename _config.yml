@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "id-ID"
-title                    : "Fehru's Homepage"
+title                    : "Fero's Homepage"
 title_separator          : "-"
 name                     : &name "Fehru Mandala Putra"
 description              : &description "personal description"
