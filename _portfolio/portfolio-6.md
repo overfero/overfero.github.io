@@ -1,6 +1,6 @@
 ---
 title: "Weather Forecasting"
-excerpt: "A machine learning model for accurate weather predictions.<br/><img src='/images/weather_forecasting.png'>"
+excerpt: "A machine learning model for accurate weather predictions.<br/><img src='/images/weatherforecast.png'  width='300' height='200'>"
 collection: portfolio
 ---
 

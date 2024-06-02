@@ -1,6 +1,6 @@
 ---
 title: "News App"
-excerpt: "A news application with various features using NewsData.io API.<br/><img src='https://github.com/overfero/NewsApp/assets/134525690/ada422d5-0a4d-4bfd-848f-36bb327bd55d'>"
+excerpt: "A news application with various features using NewsData.io API.<br/><img src='/images/newsapp.jpg' width='300' height='200'>"
 collection: portfolio
 ---
 

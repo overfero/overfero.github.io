@@ -1,6 +1,6 @@
 ---
 title: "Movie App"
-excerpt: "A movie recommendation application using IMDB API.<br/><img src='https://github.com/overfero/MovieApps/assets/134525690/e0e1c12b-7954-4038-9430-0d73971a5a70'>"
+excerpt: "A movie recommendation application using IMDB API.<br/><img src='/images/movieapps.png'  width='300' height='200'>"
 collection: portfolio
 ---
 

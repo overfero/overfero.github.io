@@ -1,6 +1,6 @@
 ---
 title: "Fake News Detection"
-excerpt: "A model using CNN and RNN for automatic detection of fake news.<br/><img src='/images/embedding.png'>"
+excerpt: "A model using CNN and RNN for automatic detection of fake news.<br/><img src='/images/embedding.png' width='300' height='200'>"
 collection: portfolio
 ---
 
