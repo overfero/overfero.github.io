@@ -1,27 +1,29 @@
 ---
-title: "Movie App"
-excerpt: "A movie recommendation application using IMDB API.<br/><img src='/images/movieapps.png'  width='300' height='200'>"
+title: "ImageToTextElection"
+excerpt: "Image-to-text model for extracting numerical results from election forms.<br/><img src='/images/gradcam.png' width='300' height='200'>"
 collection: portfolio
 ---
 
-## MovieApps
+## Image to Text: Election Form Data Extraction
 
-### Tech Stack
+This project aims to develop an Image to Text model for extracting numerical results from election forms collected from various polling stations (TPS). The model utilizes Deep Learning techniques to process the images and extract the voting numbers of the three candidates.
 
-- **Dagger Hilt**: For dependency injection.
-- **Retrofit**: For network requests and API calls.
-- **Coil**: For image loading and caching.
-- **Room Database**: For local storage and database management.
+### Dataset
 
-### Project Structure
+The dataset consists of images of election forms obtained from different TPS locations. Each image contains the voting results for the three candidates. Here is an example of the dataset:
 
-- **MVVM**: Model-View-ViewModel architecture for clear separation of concerns.
-- **Clean Architecture**: Ensures that the application is easy to maintain and extend.
+![Election Form Dataset](/images/TPS_014.jpg)
 
-### BackEnd
+### Model Architecture
 
-- **IMDB**: For fetching movie and TV show data.
+The model architecture involves convolutional neural networks (CNNs) for feature extraction and sequence-to-sequence models for recognizing and transcribing the numerical data from the images. GradCAM visualization is used to interpret and analyze the model's predictions. Here is an example of GradCAM visualization for a prediction:
 
-### Features
+![GradCAM Visualization](/images/gradcam.png)
 
-[GitHub Repository](https://github.com/overfero/MovieApps)
+### Usage
+
+1. **Data Preprocessing**: Prepare the dataset by resizing and normalizing the images.
+2. **Model Training**: Train the Image to Text model using the prepared dataset.
+3. **Evaluation**: Evaluate the model's performance using metrics such as character-level error rate (CER) and word-level error rate (WER).
+
+[GitHub Repository](https://github.com/overfero/ImageToTextElection/tree/main)

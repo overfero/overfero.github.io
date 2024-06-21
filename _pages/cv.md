@@ -24,6 +24,7 @@ Achievements
 ======
 * Finalist, Objective Quest Airnology 2.0, FTMM UNAIR (September 2023)
 * Finalist, Brawijaya Startup Action, FIA UB (October 2023)
+* Finalist, GammaFest, IPB (April 2024)
 
 Organizational Experience
 ======
@@ -33,25 +34,17 @@ Organizational Experience
 
 Projects
 ======
+* **Transformer-based Machine Translation from English to Indonesian**
+  * Re-implemented the Transformer architecture as described in "Attention is All You Need" and trained on the Opus-100 dataset with 1 million sentence pairs using PyTorch, setting up distributed training across multiple GPUs for efficiency. 
+  * [GitHub Repository](https://github.com/overfero/Transformer_scratch)
+
 * **Cyberbullying Detection**
   * Developed a machine learning model to detect cyberbullying, employing end-to-end machine learning practices including distributed computing, data versioning, model versioning, and distributed dataset on the Google Cloud Platform. Deployed as a REST API using FastAPI.
   * [GitHub Repository](https://github.com/overfero/overfero-model)
 
-* **News App**
-  * A news application integrating the Public API NewsData.io with features such as Bookmark, Find News, Category News, Headline News, and International News. Includes Login and Signup features using Firebase Auth.
-  * [GitHub Repository](https://github.com/overfero/NewsApp)
-
-* **Movie App**
-  * A movie recommendation application integrating the Public API IMDB with features such as Popular Movies, Upcoming Movies, and Movie Details.
-  * [GitHub Repository](https://github.com/overfero/MovieApps)
-
 * **ImageToTextElection**
   * Image-to-text model for extracting numerical results from election forms collected from various polling stations (TPS).
   * [GitHub Repository](https://github.com/overfero/ImageToTextElection/tree/main)
-
-* **Ngambis Rest API**
-  * A REST API for the Ngambis Application project, an application designed to connect freelancers with projects, integrated with MongoDB. Features include API Endpoint, CRUD User, and CRUD Project.
-  * [GitHub Repository](https://github.com/overfero/Ngambis-RESTAPI)
 
 * **Weather Forecasting**
   * Developed a machine learning model to provide accurate weather predictions to support planning and scheduling for the relocation project of the capital city of Indonesia from Jakarta to East Kalimantan.
@@ -60,6 +53,14 @@ Projects
 * **Fake News Detection**
   * Employed Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN), incorporating three types of embeddings (token, character, and feature), for automatic detection of fake news.
   * [GitHub Repository](https://github.com/overfero/FakeNewsDetection)
+
+* **News App**
+  * A news application integrating the Public API NewsData.io with features such as Bookmark, Find News, Category News, Headline News, and International News. Includes Login and Signup features using Firebase Auth.
+  * [GitHub Repository](https://github.com/overfero/NewsApp)
+
+* **Movie App**
+  * A movie recommendation application integrating the Public API IMDB with features such as Popular Movies, Upcoming Movies, and Movie Details.
+  * [GitHub Repository](https://github.com/overfero/MovieApps)
 
 Certifications
 ======

@@ -1,6 +1,6 @@
 ---
 title: "Cyberbullying Detection"
-excerpt: "A machine learning model to detect cyberbullying.<br/><img src='/images/cyberbullying_detection.png'>"
+excerpt: "A machine learning model to detect cyberbullying.<br/><img src='/images/parameter_strategy.png' width='300' height='200'>"
 collection: portfolio
 ---
 

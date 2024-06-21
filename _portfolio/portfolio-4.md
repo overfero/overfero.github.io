@@ -1,29 +1,29 @@
 ---
-title: "ImageToTextElection"
-excerpt: "Image-to-text model for extracting numerical results from election forms.<br/><img src='/images/gradcam.png' width='300' height='200'>"
+title: "Fake News Detection"
+excerpt: "A model using CNN and RNN for automatic detection of fake news.<br/><img src='/images/embedding.png' width='300' height='200'>"
 collection: portfolio
 ---
 
-## Image to Text: Election Form Data Extraction
+# Automatic Hoax News Detection Using Deep Learning Models
 
-This project aims to develop an Image to Text model for extracting numerical results from election forms collected from various polling stations (TPS). The model utilizes Deep Learning techniques to process the images and extract the voting numbers of the three candidates.
+The widespread dissemination of hoax news on social media has become a serious challenge in terms of accurate and public-interest information. In this study, we introduce an approach using Deep Learning models for automatic hoax news detection.
 
-### Dataset
+## Model Architecture
+We propose the use of naive Bayes architecture, feedforward neural networks, convolutional neural networks (CNN), and recurrent neural networks (RNN) to extract important features from text and understand the broader context in news. This method combines 3 types of embeddings (token, character, feature) to obtain deeper context and patterns in news text.
 
-The dataset consists of images of election forms obtained from different TPS locations. Each image contains the voting results for the three candidates. Here is an example of the dataset:
+## Steps
+1. **Data Collection**: We collect datasets from previous research and well-known media outlets, then separate them into two categories: genuine news and hoax news.
+2. **Model Training**: We train Deep Learning models using labeled training data to recognize patterns and characteristics that distinguish between genuine and hoax news.
+3. **Model Evaluation**: We test the performance of the model using independent testing datasets and apply standard evaluation metrics such as accuracy, precision, recall, and F1-score.
 
-![Election Form Dataset](/images/TPS_014.jpg)
+## Results
+Our experimental results show that the proposed Deep Learning models can achieve good performance in detecting hoax news. With accuracy, precision, recall, and F1-score averaging around 96%, and the highest metrics found in the Tribrid Multimodal Embedding model with an accuracy rounded to 97%.
 
-### Model Architecture
+## Implications
+This research has implications in the development of effective and efficient technological solutions to mitigate the negative impact of hoax news dissemination and promote accurate and public-interest information.
 
-The model architecture involves convolutional neural networks (CNNs) for feature extraction and sequence-to-sequence models for recognizing and transcribing the numerical data from the images. GradCAM visualization is used to interpret and analyze the model's predictions. Here is an example of GradCAM visualization for a prediction:
+## References
+Link to the paper: [Automatic Hoax News Detection](/files/paper.pdf)
 
-![GradCAM Visualization](/images/gradcam.png)
+[GitHub Repository](https://github.com/overfero/FakeNewsDetection)
 
-### Usage
-
-1. **Data Preprocessing**: Prepare the dataset by resizing and normalizing the images.
-2. **Model Training**: Train the Image to Text model using the prepared dataset.
-3. **Evaluation**: Evaluate the model's performance using metrics such as character-level error rate (CER) and word-level error rate (WER).
-
-[GitHub Repository](https://github.com/overfero/ImageToTextElection/tree/main)
