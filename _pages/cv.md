@@ -15,23 +15,6 @@ Education
   * GPA: 3.20/4.00 (59 SKS)
 * SMA, IPA, Banyuwangi, Indonesia (July 2020 - July 2022)
 
-Work Experience
-======
-* Owner, Forley Case, Banyuwangi, Indonesia (January 2019 - July 2019)
-* Project Leader, Geprekin, Surabaya, Indonesia (September 2022 - October 2022)
-
-Achievements
-======
-* Finalist, Objective Quest Airnology 2.0, FTMM UNAIR (September 2023)
-* Finalist, Brawijaya Startup Action, FIA UB (October 2023)
-* Finalist, GammaFest, IPB (April 2024)
-
-Organizational Experience
-======
-* Event Planner Advisor, Technopreneurship Development Center, Surabaya (February 2024 - February 2025)
-* Staff, Komunitas Tangan Di Atas Campus, Surabaya (May 2023 - May 2024)
-* Staff, Forda ITS Banyuwangi (July 2023 - July 2024)
-
 Projects
 ======
 * **Transformer-based Machine Translation from English to Indonesian**
@@ -62,13 +45,39 @@ Projects
   * A movie recommendation application integrating the Public API IMDB with features such as Popular Movies, Upcoming Movies, and Movie Details.
   * [GitHub Repository](https://github.com/overfero/MovieApps)
 
+Achievements
+======
+- ### Data Quest Airnology 2.0
+  - **Finalist**, Sep 2023
+    - Developed a machine learning model to provide accurate weather predictions
+    - Live coding session to developed automatic drugs logo labeling based on its package
+
+- ### Gammafest Data Science Competition
+  - **Finalist**, Oct 2024
+    - Developed a model to extract percentage of polling for every candidate in the form
+    - Present the strategy to tackle the problem and using explainable AI method to give a view how model generalizes
+
+- ### Brawijaya Startup Action
+  - **Finalist**, April 2023
+    - Create prototype of business model. The business model is CRM platform that integrates with AI Agent to help and assist every workflow in the workplace
+    - Create pitch deck and present them to investors and judges
+
+Work Experience
+======
+* Owner, Forley Case, Banyuwangi, Indonesia (January 2019 - July 2019)
+* Project Leader, Geprekin, Surabaya, Indonesia (September 2022 - October 2022)
+
+Organizational Experience
+======
+* Event Planner Advisor, Technopreneurship Development Center, Surabaya (February 2024 - February 2025)
+* Staff, Komunitas Tangan Di Atas Campus, Surabaya (May 2023 - May 2024)
+* Staff, Forda ITS Banyuwangi (July 2023 - July 2024)
+
 Certifications
 ======
 * Udemy: The Complete Git Guide: Understand and Master Git and Github (January 2024 - February 2024)
 * Udemy: Master Deep Learning for Computer Vision in Tensorflow (September 2023 - January 2024)
 * Udemy: The Complete Android 14 Developer Course - Build 100 Apps (October 2023 - February 2024)
-* Dicoding: Belajar Membuat Aplikasi Android untuk Pemula (November 2023)
-* Dicoding: Memulai Pemrograman dengan Kotlin (November 2023)
 * Udemy: Feature Engineering for Machine Learning (March 2023 - May 2023)
 * Udemy: Feature Selection for Machine Learning (May 2023 - August 2023)
 * Udemy: Tensorflow Developer Course (April 2023 - August 2023)
