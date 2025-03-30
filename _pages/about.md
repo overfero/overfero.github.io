@@ -7,37 +7,59 @@ redirect_from:
   - /about.html
 ---
 
+I'm a freelance software engineer and AI enthusiast currently working with G2i Inc and Aligner. With a strong mathematical background, I develop innovative solutions at the intersection of AI, machine learning, and software development.
+
+## 🎤 Featured Talks
+
+<div style="display: flex; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 15px;">
+    <a href="https://pretalx.com/pycon-apac-2024/talk/33DVYQ/">
+      <img src='/images/pycon24.jpg' width='100%'>
+    </a>
+    <p><strong>Graph Neural Networks in Python</strong><br>
+    PyCon APAC 2024, Yogyakarta<br>
+    <a href="https://www.youtube.com/live/Wk6hkMFasCE?si=myR23EIfLWV61abf">[Watch Presentation]</a></p>
+  </div>
+  <div style="flex: 1;">
+    <a href="/talks/highschool-workshop">
+      <img src='/images/highschool-workshop.jpg' width='100%'>
+    </a>
+    <p><strong>Machine Learning Workshop</strong><br>
+    Computer Vision Lab, ITS, Surabaya</p>
+  </div>
+</div>
+
 ## 🎓 Education
 
-I am currently a third-year undergraduate student majoring in Mathematics at the Institute Technology Sepuluh Nopember (ITS). My academic journey has provided me with a solid foundation in mathematical theories and principles, which I have applied to various advanced computing and data analysis projects.
-
-## 🌟 Interests
-
-My primary interest lies in the intersection of mathematics, computer science, and data analysis. I am passionate about leveraging mathematical models and computational techniques to solve complex problems in natural language processing, computer vision, and machine learning.
+Third-year undergraduate in Mathematics at Institute Technology Sepuluh Nopember (ITS), applying mathematical principles to advanced computing and AI projects.
 
 ## 🛠️ Skills & Expertise
 
-### 🤖 Advanced Algorithms
-I specialize in leveraging Natural Language Processing (NLP) and Computer Vision to tackle complex problems. My expertise includes developing sophisticated algorithms to enhance model performance and accuracy.
+### 🤖 AI & Machine Learning
+- Natural Language Processing (NLP) and Computer Vision algorithm development
+- Model fine-tuning with TensorFlow, Keras, PyTorch, and scikit-learn
+- End-to-end ML pipeline deployment on Google Cloud Platform
 
-### 🚀 Performance Optimization
-I have experience in fine-tuning models with frameworks such as TensorFlow, Keras, and scikit-learn to achieve peak efficiency. My goal is to optimize model performance for real-world applications.
+### 💻 Software Engineering
+- Full-stack development with modern frameworks
+- Containerization with Docker and orchestration with Kubernetes
+- Workflow optimization with MLflow and version control (Git/DVC)
 
-### 📊 Data Mastery
-I excel in extracting valuable insights from data using powerful tools like Pandas and NumPy. Additionally, I use visualization tools such as Seaborn and Matplotlib to present data in a clear and comprehensible manner.
+### 📊 Data Science
+- Data analysis and visualization (Pandas, NumPy, Seaborn, Matplotlib)
+- Distributed computing for large-scale data processing (Dask)
+- Statistical modeling and mathematical optimization
 
-## 🌐 Full-Stack Development
+## 🌟 Recent Projects
 
-I design, develop, and deploy end-to-end machine learning (ML) pipelines in the cloud, specifically using Google Cloud Platform (GCP). My work involves utilizing distributed computing power with tools like Dask to handle large-scale data processing tasks efficiently.
+I'm constantly working on projects that combine mathematical modeling with machine learning applications. My recent work includes:
+- Graph Neural Network implementations for recommendation systems
+- Natural language understanding models for complex text analysis
 
-## ⚙️ Automation Champion
+## 📚 Continuous Learning
 
-I streamline workflows with MLflow for efficient machine learning lifecycle management. Implementing robust version control with Git and DVC ensures project stability and reproducibility. Additionally, I utilize Docker for the seamless deployment of ML models, making the deployment process smoother and more reliable.
-
-## 📚 Lifelong Learner
-
-As a lifelong learner, I continuously explore cutting-edge advancements in machine learning through research and collaboration. I am committed to staying updated with the latest trends and technologies to enhance my skills and contribute to the field of machine learning.
+As technology evolves rapidly, I stay at the cutting edge through research, collaboration, and hands-on experimentation with emerging AI techniques and frameworks.
 
 ---
 
-Feel free to reach out if you would like to collaborate on a project or discuss any ideas related to mathematics, machine learning, or data science.
+Feel free to reach out if you'd like to collaborate on projects at the intersection of mathematics, AI, and software engineering.
