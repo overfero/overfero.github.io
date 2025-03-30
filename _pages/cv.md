@@ -7,11 +7,19 @@ redirect_from:
   - /resume
 ---
 
-## Projects
+{% include base_path %}
 
-### Transformer-based Machine Translation
-Re-implemented the Transformer architecture as described in [“Attention is All You Need”](https://arxiv.org/abs/1706.03762) and trained on the [Opus-100](https://huggingface.co/datasets/Helsinki-NLP/opus-100) dataset with 1 million sentence pairs using PyTorch, setting up distributed training across multiple GPUs for efficiency.
-- [GitHub Repository](https://github.com/overfero/Transformer_scratch)
+Education
+======
+* S-1 in Matematika, Institute Technology Sepuluh Nopember, Surabaya, Indonesia (Expected: August 2026)
+  * GPA: 3.20/4.00 (59 SKS)
+* SMA, IPA, Banyuwangi, Indonesia (July 2020 - July 2022)
+
+Projects
+======
+* **Transformer-based Machine Translation from English to Indonesian**
+  * Re-implemented the Transformer architecture as described in "Attention is All You Need" and trained on the Opus-100 dataset with 1 million sentence pairs using PyTorch, setting up distributed training across multiple GPUs for efficiency. 
+  * [GitHub Repository](https://github.com/overfero/Transformer_scratch)
 
 ### Cyberbullying Detection
 Developed a machine learning model to detect cyberbullying, employing end-to-end machine learning practices including distributed computing, data versioning, model versioning, and distributed dataset on the Google Cloud Platform. Deployed as a REST API using FastAPI.
@@ -37,72 +45,17 @@ A news application integrating the Public API NewsData.io with features such as 
 A movie recommendation application integrating the Public API IMDB with features such as Popular Movies, Upcoming Movies, and Movie Details.
 - [GitHub Repository](https://github.com/overfero/MovieApps)
 
-
-## Education
-
-### S-1 in Matematika, Institute Technology Sepuluh Nopember, Surabaya, Indonesia
-(Expected: August 2026)
-- GPA: 3.20/4.00 (59 SKS)
-
-### SMA, IPA, Banyuwangi, Indonesia
-(July 2020 - July 2022)
-
-
-## Experience
-
-### Owner, Forley Case, Banyuwangi, Indonesia
-(January 2019 - July 2019)
-
-### Project Leader, Geprekin, Surabaya, Indonesia
-(September 2022 - October 2022)
-
-
-## Achievements
-
-### Finalist, Objective Quest Airnology 2.0, FTMM UNAIR
-(September 2023)
-
-### Finalist, Brawijaya Startup Action, FIA UB
-(October 2023)
-
-### Finalist, GammaFest, IPB
-(April 2024)
-
-
-## Organizational Experience
-
-### Event Planner Advisor, Technopreneurship Development Center, Surabaya
-(February 2024 - February 2025)
-
-### Staff, Komunitas Tangan Di Atas Campus, Surabaya
-(May 2023 - May 2024)
-
-### Business Production, Technopreneurship Development Center, Surabaya
-(January 2023 - January 2024)
-
-
-## Certifications
-
-### Udemy: The Complete Git Guide: Understand and Master Git and Github
-(January 2024 - February 2024)
-
-### Udemy: Master Deep Learning for Computer Vision in Tensorflow
-(September 2023 - January 2024)
-
-### Udemy: The Complete Android 14 Developer Course - Build 100 Apps
-(October 2023 - February 2024)
-
-### Udemy: Feature Engineering for Machine Learning
-(March 2023 - May 2023)
-
-### Udemy: Feature Selection for Machine Learning
-(May 2023 - August 2023)
-
-### Udemy: Tensorflow Developer Course
-(April 2023 - August 2023)
-
-### Udemy: Python for Data Science and Machine Learning Bootcamp
-(January 2023 - July 2023)
+Certifications
+======
+* Udemy: The Complete Git Guide: Understand and Master Git and Github (January 2024 - February 2024)
+* Udemy: Master Deep Learning for Computer Vision in Tensorflow (September 2023 - January 2024)
+* Udemy: The Complete Android 14 Developer Course - Build 100 Apps (October 2023 - February 2024)
+* Dicoding: Belajar Membuat Aplikasi Android untuk Pemula (November 2023)
+* Dicoding: Memulai Pemrograman dengan Kotlin (November 2023)
+* Udemy: Feature Engineering for Machine Learning (March 2023 - May 2023)
+* Udemy: Feature Selection for Machine Learning (May 2023 - August 2023)
+* Udemy: Tensorflow Developer Course (April 2023 - August 2023)
+* Udemy: Python for Data Science and Machine Learning Bootcamp (January 2023 - July 2023)
 
 
 ## Skills
